@@ -1,3 +1,0 @@
-0 string SCHOOL	School data
-sudo file -C -m school.mgc
-!:mime School
