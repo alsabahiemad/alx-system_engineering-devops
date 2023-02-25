@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -Ap1 --group-directories-first | LC_COLLATE=C sort -df | tr '\n' ',' ; echo
