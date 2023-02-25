@@ -1,1 +1,2 @@
-keep cool
+#!/bin/bash
+pwd
